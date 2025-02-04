@@ -159,7 +159,7 @@ public class main
 <br>
 
 기본형 (int, double, boolean 등)은 stack의 변수 안에 value 저장
-<br> 참조형 (Integer, Obejct, Array, Map 등) 은 stakc의 변수 값에는 객체의 주소 값, 객체는 별도의 Heap영역에 저장
+<br> 참조형 (Integer, Obejct, Array, Map 등) 은 stack의 변수 값에는 객체의 주소 값, 객체는 별도의 Heap영역에 저장
 
 <br>
 
